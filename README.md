@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @akhil-k-anil
-- 👀 I’m interested in Java 
+-  From Bits to Brilliance: Crafting Solutions with Java 
 - 📫 How to reach me akhilkanil1786@gmail.com
 
